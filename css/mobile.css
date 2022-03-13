@@ -1,0 +1,37 @@
+/* Portfolio */
+#portfolio {
+	padding: 40px 0;
+}
+
+.portfolio-row {
+	flex-wrap: wrap;
+}
+
+/* About */
+#about {
+	padding: 40px 0;
+}
+
+.about-row {
+	flex-wrap: wrap;
+}
+
+.about-row-video {
+	width: 100%;
+}
+
+.about-row-text {
+	text-align: center;
+	width: 100%;
+	padding-left: 0;
+	padding-top: 20px;
+}
+
+/* Contact */
+#contact {
+	padding: 40px 0;
+}
+
+#contact button {
+	width: 100%;
+}
